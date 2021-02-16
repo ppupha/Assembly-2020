@@ -1,0 +1,9 @@
+﻿  Lab_08.cpp
+E:\Lab Acem\Lab_08\Lab_08\Lab_08.cpp(93,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Lab Acem\Lab_08\Lab_08\Lab_08.cpp(97,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  5 of 14 functions (35.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab_08.vcxproj -> E:\Lab Acem\Lab_08\Release\Lab_08.exe
